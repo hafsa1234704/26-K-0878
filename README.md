@@ -9,6 +9,10 @@
 - HTML
 - C programming
 ## HOBBIES
-- Reading novels
-- Watching Sports
-- Cooking
+## HOBBIES
+1. Reading novels
+   - [x] Finished reading Sci-Fi series
+   - [ ] Read 5 murder mystery
+   - [ ] Read literataure 
+2. Watching Sports
+3. Cooking
